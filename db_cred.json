@@ -1,0 +1,10 @@
+{
+    "Azure_sql":{
+        "host" : "grcd-az-mdg-pp-sql-01.database.windows.net",
+        "database" : "GRCD-AZ-PEL-PP-DBA-01",
+        "user" : "azuremdg.pelsqldb",
+        "password" : "$pEl*@driYOd",
+        "driver" : "ODBC Driver 17 for SQL Server"
+        
+    }
+}
